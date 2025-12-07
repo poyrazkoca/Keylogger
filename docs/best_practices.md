@@ -1,20 +1,17 @@
 # Corporate Defense: Best Practices Against Keylogger Threats
 
-**Date:** 07/12/2025
 **Project Phase:** Phase 4 (Analysis and Reporting)
 **Deliverable:** Organizational Defense Guide
 
 ## 1. Introduction
 Keyloggers pose a significant threat to information security by capturing sensitive data such as passwords and confidential communications . This guide outlines a multi-layered defense strategy (Defense in Depth) derived from the experimental findings of Project 4.
 
-
-
 ## 2. Preventive Controls (The First Line of Defense)
 Our testing confirmed that prevention is far more effective than detection, as standard antivirus signatures often fail against custom scripts .
 
 ### A. Principle of Least Privilege (PoLP)
 * **Strategy:** Enforce "Limited User" accounts for daily operations. Remove local administrator rights from standard employees.
-* **Evidence:** During our testing, the keylogger script completely failed to execute when run from a non-administrator account because it lacked the permissions required for global keyboard hooking .
+* **Evidence:** During our testing, the keylogger script completely failed to execute when run from a non-administrator account because it lacked the permissions required for global keyboard hooking.
 * **Recommendation:** Strictly limit the use of administrative accounts to IT personnel only.
 
 ### B. Application Whitelisting
@@ -40,7 +37,7 @@ Since signature-based detection (like Windows Defender) proved ineffective again
 * **Recommendation:** Conduct quarterly phishing simulations to train users to recognize and report suspicious "urgent" downloads or unexpected email attachments.
 
 ## 5. Summary Checklist for Admins
-1.  [ ] **Audit Accounts:** Revoke unnecessary admin rights immediately.
-2.  [ ] **Restrict Paths:** Block execution from `%TEMP%` and `Downloads`.
-3.  [ ] **Enable EDR:** Use behavioral monitoring tools.
-4.  [ ] **Educate:** Train users on verifying software sources.
+1.  [x] **Audit Accounts:** Revoke unnecessary admin rights immediately.
+2.  [x] **Restrict Paths:** Block execution from `%TEMP%` and `Downloads`.
+3.  [x] **Enable EDR:** Use behavioral monitoring tools.
+4.  [x] **Educate:** Train users on verifying software sources.

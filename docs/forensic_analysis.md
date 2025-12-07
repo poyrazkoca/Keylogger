@@ -27,7 +27,7 @@ The keylogger runs as a Python script, which obfuscates its presence under a gen
 
 ### D. Network Artifacts
 * **Finding:** None.
-* **Analysis:** No outbound TCP/UDP connections were initiated. [cite_start]Wireshark traces remained silent regarding this process, confirming the air-gapped nature of the threat.
+* **Analysis:** No outbound TCP/UDP connections were initiated. Wireshark traces remained silent regarding this process, confirming the air-gapped nature of the threat.
 
 ## 3. Removal & Remediation (Incident Response)
 
