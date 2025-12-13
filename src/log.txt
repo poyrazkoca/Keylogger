@@ -1,0 +1,1455 @@
+
+[2025-12-13 11:33:29.695257] - Mouse Click at (2358, 1874) - screenshot saved
+
+[2025-12-13 11:33:30.810622] - Mouse Click at (2186, 376) - screenshot saved
+
+[2025-12-13 11:33:32.305578] - Mouse Click at (2682, 681) - screenshot saved
+
+[2025-12-13 11:33:34.979413] - Mouse Click at (885, 1626) - screenshot saved
+
+[2025-12-13 11:33:37.649774] - Mouse Click at (2258, 1879) - screenshot saved
+
+[2025-12-13 11:33:37.912427] - Mouse Click at (2258, 1879) - screenshot saved
+
+[2025-12-13 11:33:38.816849] - Mouse Click at (2284, 1835) - screenshot saved
+
+[2025-12-13 11:33:40.513583] - Mouse Click at (2279, 702) - screenshot saved
+
+[2025-12-13 11:33:41.803520] - Mouse Click at (2367, 1887) - screenshot saved
+[CMD][SHIFT]S
+[2025-12-13 11:33:45.191813] - Mouse Click at (311, 1318) - screenshot saved
+
+[2025-12-13 11:33:46.778478] - Mouse Click at (2459, 400) - screenshot saved
+[CTRL_L]
+[2025-12-13 11:33:47.593724] - Mouse Click at (861, 1601) - screenshot saved
+napiyim li[BACKSPACE][BACKSPACE]şimdi
+
+[2025-12-13 11:34:01.167670] - Mouse Click at (766, 1871) - screenshot saved
+not[DOWN][DOWN]
+
+[2025-12-13 11:34:09.424582] - Mouse Click at (1234, 868) - screenshot saved
+
+[2025-12-13 11:34:10.701384] - Mouse Click at (1217, 549) - screenshot saved
+test123 password
+[2025-12-13 11:34:17.300063] - Mouse Click at (2465, 513) - screenshot saved
+[ALT_L]	 admin 
+
+[2025-12-13 11:34:23.734209] - Mouse Click at (1904, 539) - screenshot saved
+[CAPS_LOCK][CAPS_LOCK]
+[2025-12-13 11:34:36.816133] - Mouse Click at (1523, 49) - screenshot saved
+backs[DOWN]
+
+[2025-12-13 11:34:50.196953] - Mouse Click at (2274, 1880) - screenshot saved
+[BACKSPACE]
+[2025-12-13 11:34:54.603051] - Mouse Click at (390, 1) - screenshot saved
+
+[2025-12-13 11:34:55.120744] - Mouse Click at (761, 0) - screenshot saved
+
+[2025-12-13 11:34:55.863142] - Mouse Click at (328, 0) - screenshot saved
+
+[2025-12-13 11:34:58.389377] - Mouse Click at (1828, 0) - screenshot saved
+
+[2025-12-13 11:34:59.345130] - Mouse Click at (1655, 358) - screenshot saved
+arrow [DOWN]
+
+[2025-12-13 11:35:06.483462] - Mouse Click at (871, 0) - screenshot saved
+
+[2025-12-13 11:35:07.316675] - Mouse Click at (306, 0) - screenshot saved
+[UP][UP][UP]
+[2025-12-13 11:35:12.345079] - Mouse Click at (2241, 1868) - screenshot saved
+[DOWN][DOWN][DOWN][UP][UP]
+[2025-12-13 11:35:16.810931] - Mouse Click at (2787, 963) - screenshot saved
+
+[2025-12-13 11:35:28.033053] - Mouse Click at (758, 1889) - screenshot saved
+cd[BACKSPACE]md
+
+[2025-12-13 11:35:31.713112] - Mouse Click at (1925, 90) - screenshot saved
+
+[2025-12-13 11:35:34.388104] - Mouse Click at (800, 1211) - screenshot saved
+
+[2025-12-13 11:35:35.458688] - Mouse Click at (789, 1221) - screenshot saved
+
+[2025-12-13 11:35:36.310814] - Mouse Click at (709, 1214) - screenshot saved
+[CTRL_L]
+[2025-12-13 11:35:38.522190] - Mouse Click at (2235, 1868) - screenshot saved
+
+[2025-12-13 11:35:39.930011] - Mouse Click at (2166, 968) - screenshot saved
+
+[2025-12-13 11:35:40.700101] - Mouse Click at (1392, 1073) - screenshot saved
+
+[2025-12-13 11:35:42.416934] - Mouse Click at (2193, 1900) - screenshot saved
+
+[2025-12-13 11:35:43.329506] - Mouse Click at (2169, 1902) - screenshot saved
+
+[2025-12-13 11:35:45.064755] - Mouse Click at (2299, 1709) - screenshot saved
+
+[2025-12-13 11:35:45.748743] - Mouse Click at (1379, 1551) - screenshot saved
+
+
+[2025-12-13 11:35:50.576317] - Mouse Click at (451, 1311) - screenshot saved
+
+[2025-12-13 11:35:51.507066] - Mouse Click at (434, 1267) - screenshot saved
+
+[2025-12-13 11:35:52.226922] - Mouse Click at (110, 1277) - screenshot saved
+
+[2025-12-13 11:35:52.791353] - Mouse Click at (296, 1248) - screenshot saved
+
+[2025-12-13 11:35:53.406101] - Mouse Click at (323, 1266) - screenshot saved
+
+[2025-12-13 11:35:53.881836] - Mouse Click at (357, 1262) - screenshot saved
+
+[2025-12-13 11:35:55.109581] - Mouse Click at (420, 1268) - screenshot saved
+
+[2025-12-13 11:35:56.504821] - Mouse Click at (257, 1265) - screenshot saved
+
+[2025-12-13 11:35:57.160429] - Mouse Click at (325, 1321) - screenshot saved
+
+[2025-12-13 11:35:58.226159] - Mouse Click at (2219, 1868) - screenshot saved
+
+[2025-12-13 11:36:00.379706] - Mouse Click at (2211, 1889) - screenshot saved
+
+[2025-12-13 11:36:00.854266] - Mouse Click at (2243, 1716) - screenshot saved
+
+[2025-12-13 11:36:01.390722] - Mouse Click at (2155, 1910) - screenshot saved
+
+[2025-12-13 11:36:03.819523] - Mouse Click at (2273, 1715) - screenshot saved
+
+[2025-12-13 11:36:06.056288] - Mouse Click at (1980, 1562) - screenshot saved
+
+[2025-12-13 11:36:06.746841] - Mouse Click at (1963, 1590) - screenshot saved
+
+[2025-12-13 11:36:07.744249] - Mouse Click at (1374, 1631) - screenshot saved
+[CTRL_L]
+[2025-12-13 11:36:10.831083] - Mouse Click at (1469, 1378) - screenshot saved
+
+[2025-12-13 11:36:12.508865] - Mouse Click at (370, 1257) - screenshot saved
+
+[2025-12-13 11:36:13.646381] - Mouse Click at (458, 1303) - screenshot saved
+
+[2025-12-13 11:36:14.796448] - Mouse Click at (2196, 1877) - screenshot saved
+
+[2025-12-13 11:36:16.143782] - Mouse Click at (2176, 1865) - screenshot saved
+
+[2025-12-13 11:36:17.028383] - Mouse Click at (2166, 1870) - screenshot saved
+
+[2025-12-13 11:36:18.943171] - Mouse Click at (2268, 1723) - screenshot saved
+
+[2025-12-13 11:36:19.632631] - Mouse Click at (1746, 1474) - screenshot saved
+
+
+[2025-12-13 11:36:25.807724] - Mouse Click at (2470, 679) - screenshot saved
+
+[2025-12-13 11:36:33.543109] - Mouse Click at (2281, 467) - screenshot saved
+
+[2025-12-13 11:36:39.223847] - Mouse Click at (442, 917) - screenshot saved
+
+[2025-12-13 11:36:41.929047] - Mouse Click at (2275, 1874) - screenshot saved
+
+[2025-12-13 11:36:43.227608] - Mouse Click at (2644, 810) - screenshot saved
+
+[2025-12-13 11:36:44.425184] - Mouse Click at (2492, 841) - screenshot saved
+
+[2025-12-13 11:37:04.389970] - Mouse Click at (2384, 1893) - screenshot saved
+[CMD][SHIFT]S
+[2025-12-13 11:37:08.135520] - Mouse Click at (0, 126) - screenshot saved
+
+[2025-12-13 11:37:10.673172] - Mouse Click at (2662, 9) - screenshot saved
+
+[2025-12-13 11:37:17.256896] - Mouse Click at (339, 697) - screenshot saved
+
+[2025-12-13 11:37:17.984223] - Mouse Click at (419, 744) - screenshot saved
+
+[2025-12-13 11:37:18.821406] - Mouse Click at (2168, 1862) - screenshot saved
+
+[2025-12-13 11:37:20.069531] - Mouse Click at (2283, 1693) - screenshot saved
+
+[2025-12-13 11:37:20.827893] - Mouse Click at (1669, 1397) - screenshot saved
+
+
+[2025-12-13 11:37:23.796352] - Mouse Click at (246, 755) - screenshot saved
+
+[2025-12-13 11:37:24.359846] - Mouse Click at (215, 750) - screenshot saved
+
+[2025-12-13 11:37:25.266953] - Mouse Click at (219, 750) - screenshot saved
+
+[2025-12-13 11:37:25.835065] - Mouse Click at (230, 753) - screenshot saved
+
+[2025-12-13 11:37:26.720040] - Mouse Click at (180, 755) - screenshot saved
+
+[2025-12-13 11:37:27.729506] - Mouse Click at (282, 788) - screenshot saved
+
+[2025-12-13 11:37:28.754004] - Mouse Click at (2298, 1891) - screenshot saved
+
+[2025-12-13 11:37:29.615454] - Mouse Click at (2221, 1876) - screenshot saved
+
+[2025-12-13 11:37:30.144262] - Mouse Click at (2198, 1885) - screenshot saved
+
+[2025-12-13 11:37:30.915222] - Mouse Click at (2282, 1767) - screenshot saved
+
+[2025-12-13 11:37:31.543700] - Mouse Click at (2195, 1512) - screenshot saved
+
+[BACKSPACE]
+[2025-12-13 11:37:34.018436] - Mouse Click at (2543, 1119) - screenshot saved
+w
+[2025-12-13 11:37:38.396765] - Mouse Click at (693, 1862) - screenshot saved
+
+[2025-12-13 11:37:40.728162] - Mouse Click at (786, 786) - screenshot saved
+
+[2025-12-13 11:37:44.479203] - Mouse Click at (457, 1350) - screenshot saved
+
+[2025-12-13 11:37:47.169916] - Mouse Click at (2867, 1649) - screenshot saved
+
+[2025-12-13 11:37:48.866714] - Mouse Click at (2874, 1078) - screenshot saved
+
+[2025-12-13 11:39:00.991549] - Mouse Click at (2648, 64) - screenshot saved
+
+[2025-12-13 11:39:02.862734] - Mouse Click at (2623, 33) - screenshot saved
+
+[2025-12-13 11:39:06.140104] - Mouse Click at (2141, 551) - screenshot saved
+
+[2025-12-13 11:39:07.565602] - Mouse Click at (2503, 586) - screenshot saved
+
+[2025-12-13 11:39:16.107889] - Mouse Click at (2636, 34) - screenshot saved
+
+[2025-12-13 11:39:18.158912] - Mouse Click at (218, 1021) - screenshot saved
+
+[2025-12-13 11:39:19.549383] - Mouse Click at (1087, 1109) - screenshot saved
+
+[2025-12-13 11:39:25.167869] - Mouse Click at (2256, 1852) - screenshot saved
+
+[2025-12-13 11:39:26.442856] - Mouse Click at (2253, 1891) - screenshot saved
+
+[2025-12-13 11:40:17.127658] - Mouse Click at (489, 1583) - screenshot saved
+[CTRL_L][BACKSPACE][BACKSPACE][BACKSPACE]
+[2025-12-13 11:40:22.481468] - Mouse Click at (2179, 1891) - screenshot saved
+
+[2025-12-13 11:40:23.668788] - Mouse Click at (2188, 1884) - screenshot saved
+
+[2025-12-13 11:40:24.842115] - Mouse Click at (2178, 1883) - screenshot saved
+
+[2025-12-13 11:40:26.723217] - Mouse Click at (2325, 1754) - screenshot saved
+
+[2025-12-13 11:40:29.583797] - Mouse Click at (2869, 1141) - screenshot saved
+
+[2025-12-13 11:40:30.930555] - Mouse Click at (2865, 1397) - screenshot saved
+
+[2025-12-13 11:40:33.653760] - Mouse Click at (2323, 1906) - screenshot saved
+[CMD][SHIFT]S
+[2025-12-13 11:40:36.528427] - Mouse Click at (24, 150) - screenshot saved
+
+[2025-12-13 11:40:38.700784] - Mouse Click at (2654, 15) - screenshot saved
+[CTRL_L]
+[2025-12-13 11:40:39.600833] - Mouse Click at (503, 1646) - screenshot saved
+böyle bunlar var
+
+[2025-12-13 11:40:57.269687] - Mouse Click at (2171, 1889) - screenshot saved
+
+[2025-12-13 11:40:58.239347] - Mouse Click at (2037, 1720) - screenshot saved
+
+[2025-12-13 11:40:59.270610] - Mouse Click at (1699, 1368) - screenshot saved
+[CTRL_L]
+[2025-12-13 11:41:01.705960] - Mouse Click at (1922, 392) - screenshot saved
+
+[2025-12-13 11:41:04.593498] - Mouse Click at (1831, 1351) - screenshot saved
+
+[2025-12-13 11:41:05.442185] - Mouse Click at (2132, 1564) - screenshot saved
+[CTRL_L]
+[2025-12-13 11:41:06.903094] - Mouse Click at (2131, 634) - screenshot saved
+
+[2025-12-13 11:41:17.807705] - Mouse Click at (175, 818) - screenshot saved
+[CTRL_L]
+[2025-12-13 11:41:21.165509] - Mouse Click at (2248, 1890) - screenshot saved
+
+[2025-12-13 11:41:22.045037] - Mouse Click at (2244, 1887) - screenshot saved
+
+[2025-12-13 11:41:22.794092] - Mouse Click at (2174, 1884) - screenshot saved
+
+[2025-12-13 11:41:23.732923] - Mouse Click at (2315, 1699) - screenshot saved
+
+[2025-12-13 11:41:24.626057] - Mouse Click at (2149, 1885) - screenshot saved
+
+[2025-12-13 11:41:25.158514] - Mouse Click at (1847, 1643) - screenshot saved
+
+[2025-12-13 11:41:26.159255] - Mouse Click at (2057, 1135) - screenshot saved
+[CTRL_L]
+[2025-12-13 11:41:29.045145] - Mouse Click at (1843, 1654) - screenshot saved
+
+[2025-12-13 11:41:29.685207] - Mouse Click at (1797, 1571) - screenshot saved
+
+[2025-12-13 11:41:30.002912] - Mouse Click at (1800, 1622) - screenshot saved
+
+[2025-12-13 11:41:30.198652] - Mouse Click at (1800, 1619) - screenshot saved
+
+[2025-12-13 11:41:31.140562] - Mouse Click at (2624, 39) - screenshot saved
+
+[2025-12-13 11:41:32.550377] - Mouse Click at (1458, 512) - screenshot saved
+
+[2025-12-13 11:41:38.462939] - Mouse Click at (1372, 746) - screenshot saved
+
+[2025-12-13 11:41:40.380828] - Mouse Click at (2264, 1886) - screenshot saved
+
+[2025-12-13 11:41:40.923921] - Mouse Click at (2191, 1876) - screenshot saved
+
+[2025-12-13 11:41:42.411127] - Mouse Click at (2078, 1679) - screenshot saved
+
+[2025-12-13 11:41:43.621990] - Mouse Click at (1981, 1106) - screenshot saved
+
+[2025-12-13 11:41:44.823529] - Mouse Click at (1616, 1501) - screenshot saved
+
+[2025-12-13 11:41:48.291888] - Mouse Click at (2042, 1233) - screenshot saved
+
+[2025-12-13 11:41:49.362402] - Mouse Click at (2176, 424) - screenshot saved
+
+[2025-12-13 11:41:53.162901] - Mouse Click at (2665, 27) - screenshot saved
+
+[2025-12-13 11:41:54.608326] - Mouse Click at (221, 818) - screenshot saved
+
+[2025-12-13 11:41:55.415501] - Mouse Click at (301, 857) - screenshot saved
+
+[2025-12-13 11:41:56.184085] - Mouse Click at (2268, 1883) - screenshot saved
+
+[2025-12-13 11:41:57.896592] - Mouse Click at (2440, 908) - screenshot saved
+
+[2025-12-13 11:41:58.745602] - Mouse Click at (2195, 1880) - screenshot saved
+
+[2025-12-13 11:42:01.307085] - Mouse Click at (2025, 1687) - screenshot saved
+
+[2025-12-13 11:42:01.895912] - Mouse Click at (2026, 1726) - screenshot saved
+
+[2025-12-13 11:42:03.695775] - Mouse Click at (1851, 1744) - screenshot saved
+
+[2025-12-13 11:42:04.358312] - Mouse Click at (1851, 1744) - screenshot saved
+
+[2025-12-13 11:42:04.887037] - Mouse Click at (1852, 1766) - screenshot saved
+
+[2025-12-13 11:42:05.036601] - Mouse Click at (1852, 1776) - screenshot saved
+
+[2025-12-13 11:42:05.198503] - Mouse Click at (1855, 1774) - screenshot saved
+
+[2025-12-13 11:42:05.999202] - Mouse Click at (2127, 657) - screenshot saved
+
+[2025-12-13 11:42:07.054031] - Mouse Click at (1793, 1585) - screenshot saved
+
+[2025-12-13 11:42:07.810369] - Mouse Click at (1276, 1649) - screenshot saved
+
+[2025-12-13 11:42:07.978429] - Mouse Click at (1276, 1647) - screenshot saved
+
+[2025-12-13 11:42:08.209196] - Mouse Click at (1275, 1648) - screenshot saved
+cssdeafreg
+[2025-12-13 11:42:11.722841] - Mouse Click at (2105, 504) - screenshot saved
+
+[2025-12-13 11:42:13.006178] - Mouse Click at (2643, 21) - screenshot saved
+
+[2025-12-13 11:42:15.017423] - Mouse Click at (1456, 562) - screenshot saved
+
+[2025-12-13 11:42:26.140115] - Mouse Click at (2175, 1887) - screenshot saved
+
+[2025-12-13 11:42:27.342198] - Mouse Click at (2264, 1672) - screenshot saved
+
+[2025-12-13 11:42:28.538317] - Mouse Click at (2875, 865) - screenshot saved
+[BACKSPACE]
+[2025-12-13 11:42:31.769830] - Mouse Click at (2660, 32) - screenshot saved
+
+[2025-12-13 11:42:33.014769] - Mouse Click at (2624, 555) - screenshot saved
+
+[2025-12-13 11:42:35.992762] - Mouse Click at (235, 831) - screenshot saved
+
+[2025-12-13 11:42:36.770792] - Mouse Click at (322, 873) - screenshot saved
+
+[2025-12-13 11:42:37.625198] - Mouse Click at (2174, 1874) - screenshot saved
+
+[2025-12-13 11:42:38.234178] - Mouse Click at (2287, 1749) - screenshot saved
+
+[2025-12-13 11:42:38.854307] - Mouse Click at (1064, 1264) - screenshot saved
+
+
+[2025-12-13 11:42:41.686392] - Mouse Click at (2621, 33) - screenshot saved
+
+[2025-12-13 11:42:43.546062] - Mouse Click at (432, 856) - screenshot saved
+
+[2025-12-13 11:42:44.466277] - Mouse Click at (382, 856) - screenshot saved
+
+[2025-12-13 11:42:45.158269] - Mouse Click at (438, 875) - screenshot saved
+
+[2025-12-13 11:42:45.838180] - Mouse Click at (437, 867) - screenshot saved
+
+[2025-12-13 11:42:46.291959] - Mouse Click at (420, 859) - screenshot saved
+
+[2025-12-13 11:42:46.696814] - Mouse Click at (430, 865) - screenshot saved
+
+[2025-12-13 11:42:48.311621] - Mouse Click at (182, 874) - screenshot saved
+
+[2025-12-13 11:42:50.559330] - Mouse Click at (395, 864) - screenshot saved
+
+[2025-12-13 11:42:51.211360] - Mouse Click at (479, 905) - screenshot saved
+
+[2025-12-13 11:42:52.170462] - Mouse Click at (2194, 1888) - screenshot saved
+
+[2025-12-13 11:42:52.931165] - Mouse Click at (2336, 1717) - screenshot saved
+
+[2025-12-13 11:42:53.491287] - Mouse Click at (1627, 1433) - screenshot saved
+
+
+[2025-12-13 11:42:57.802884] - Mouse Click at (2650, 9) - screenshot saved
+
+[2025-12-13 11:42:58.888232] - Mouse Click at (2635, 38) - screenshot saved
+
+[2025-12-13 11:43:09.536440] - Mouse Click at (1829, 1861) - screenshot saved
+
+[2025-12-13 11:43:11.481736] - Mouse Click at (2168, 1634) - screenshot saved
+
+[2025-12-13 11:43:13.326319] - Mouse Click at (2873, 1129) - screenshot saved
+
+[2025-12-13 11:43:18.348967] - Mouse Click at (2640, 35) - screenshot saved
+
+[2025-12-13 11:43:30.036929] - Mouse Click at (1342, 1096) - screenshot saved
+
+[2025-12-13 11:43:34.480356] - Mouse Click at (2249, 1852) - screenshot saved
+
+[2025-12-13 11:43:35.423879] - Mouse Click at (2175, 1868) - screenshot saved
+
+[2025-12-13 11:43:35.844454] - Mouse Click at (2349, 1687) - screenshot saved
+
+[2025-12-13 11:43:36.420490] - Mouse Click at (1447, 1401) - screenshot saved
+
+
+[2025-12-13 11:43:41.491855] - Mouse Click at (2626, 33) - screenshot saved
+
+[2025-12-13 11:43:43.275876] - Mouse Click at (2626, 33) - screenshot saved
+[ALT_L]	
+[2025-12-13 11:43:48.356747] - Mouse Click at (1683, 1171) - screenshot saved
+
+[2025-12-13 11:43:49.469032] - Mouse Click at (2255, 1867) - screenshot saved
+
+[2025-12-13 11:43:50.417526] - Mouse Click at (2062, 1346) - screenshot saved
+[CTRL_L]time
+
+
+[CAPS_LOCK]sl[CAPS_LOCK][BACKSPACE]le[BACKSPACE][BACKSPACE][ALT_L]	[ALT_L]	
+[2025-12-13 11:44:02.664567] - Mouse Click at (1894, 1863) - screenshot saved
+
+[2025-12-13 11:44:03.655034] - Mouse Click at (1899, 1862) - screenshot saved
+
+[2025-12-13 11:44:05.570598] - Mouse Click at (1671, 1882) - screenshot saved
+
+[2025-12-13 11:44:09.154625] - Mouse Click at (1664, 1855) - screenshot saved
+[BACKSPACE].sleep
+
+[2025-12-13 11:44:14.051343] - Mouse Click at (1584, 1064) - screenshot saved
+
+[2025-12-13 11:44:14.406797] - Mouse Click at (1636, 990) - screenshot saved
+[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]
+
+
+
+
+
+
+
+
+
+
+[2025-12-13 11:44:32.720505] - Mouse Click at (31, 285) - screenshot saved
+[CTRL_L]
+[2025-12-13 11:44:36.832206] - Mouse Click at (2631, 20) - screenshot saved
+
+[2025-12-13 11:44:38.169076] - Mouse Click at (1892, 1846) - screenshot saved
+
+[2025-12-13 11:44:40.758319] - Mouse Click at (1941, 1875) - screenshot saved
+
+[2025-12-13 11:44:41.622728] - Mouse Click at (1940, 1876) - screenshot saved
+
+[2025-12-13 11:44:47.407910] - Mouse Click at (1677, 1871) - screenshot saved
+[CTRL_L]
+[2025-12-13 11:44:56.523506] - Mouse Click at (453, 1627) - screenshot saved
+[SHIFT]
+
+kod bu 
+
+[2025-12-13 11:45:28.938853] - Mouse Click at (1755, 1893) - screenshot saved
+
+[2025-12-13 11:45:34.358379] - Mouse Click at (1423, 1773) - screenshot saved
+şöyle bi fikrim var
+çok fazla ss aldığı için bellekte aşor[BACKSPACE][BACKSPACE]ırı yer kaplıyor ya
+ss alma süree[BACKSPACE]lerini biraz düşürebilşr[BACKSPACE][BACKSPACE]irim
+
+[2025-12-13 11:46:05.024250] - Mouse Click at (587, 682) - screenshot saved
+sizin asıl hikau[BACKSPACE]yeniz
+dfsgetoıhs
+
+[2025-12-13 11:46:19.501931] - Mouse Click at (604, 968) - screenshot saved
+görd[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]gördüm [BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]halleti[BACKSPACE]tim aşkımm
+
+[2025-12-13 11:46:30.540319] - Mouse Click at (2655, 23) - screenshot saved
+
+[2025-12-13 11:46:40.036131] - Mouse Click at (164, 1047) - screenshot saved
+
+[2025-12-13 11:46:42.763376] - Mouse Click at (994, 808) - screenshot saved
+
+[2025-12-13 11:46:43.627540] - Mouse Click at (878, 855) - screenshot saved
+
+[2025-12-13 11:46:44.593721] - Mouse Click at (887, 853) - screenshot saved
+[CTRL_L]
+[2025-12-13 11:46:47.647238] - Mouse Click at (1731, 1855) - screenshot saved
+
+[2025-12-13 11:46:49.841475] - Mouse Click at (571, 713) - screenshot saved
+ya da
+[CTRL_L]
+[2025-12-13 11:46:54.564465] - Mouse Click at (1300, 1780) - screenshot saved
+[BACKSPACE][BACKSPACE] 
+[2025-12-13 11:46:58.208293] - Mouse Click at (1721, 1754) - screenshot saved
+[BACKSPACE]a[BACKSPACE]ır
+
+[2025-12-13 11:47:06.562628] - Mouse Click at (2627, 44) - screenshot saved
+
+[2025-12-13 11:47:08.245980] - Mouse Click at (2005, 33) - screenshot saved
+y
+
+[2025-12-13 11:47:11.186928] - Mouse Click at (2007, 1886) - screenshot saved
+
+[2025-12-13 11:47:13.479641] - Mouse Click at (2412, 79) - screenshot saved
+
+[2025-12-13 11:47:19.023725] - Mouse Click at (2173, 785) - screenshot saved
+
+[2025-12-13 11:47:22.908014] - Mouse Click at (847, 641) - screenshot saved
+
+[2025-12-13 11:47:37.080435] - Mouse Click at (1741, 1874) - screenshot saved
+
+[2025-12-13 11:47:42.118783] - Mouse Click at (566, 674) - screenshot saved
+özledim nur yüzlü bacım
+acilen tokat piyasası
+az kaldi
+
+[2025-12-13 11:48:06.098779] - Mouse Click at (2636, 50) - screenshot saved
+
+[2025-12-13 11:48:08.113937] - Mouse Click at (1443, 1694) - screenshot saved
+
+[2025-12-13 11:48:09.498307] - Mouse Click at (2854, 32) - screenshot saved
+
+[2025-12-13 11:48:16.348707] - Mouse Click at (1377, 303) - screenshot saved
+italy fr[BACKSPACE][DOWN][DOWN]
+
+[2025-12-13 11:48:24.907529] - Mouse Click at (1337, 612) - screenshot saved
+
+[2025-12-13 11:48:30.900111] - Mouse Click at (328, 1410) - screenshot saved
+
+[2025-12-13 11:48:39.368531] - Mouse Click at (294, 1398) - screenshot saved
+
+[2025-12-13 11:48:43.746227] - Mouse Click at (1736, 0) - screenshot saved
+
+[2025-12-13 11:48:45.581153] - Mouse Click at (1936, 44) - screenshot saved
+
+[2025-12-13 11:48:46.877990] - Mouse Click at (1425, 13) - screenshot saved
+
+[2025-12-13 11:48:48.151539] - Mouse Click at (1456, 55) - screenshot saved
+
+[2025-12-13 11:48:50.331681] - Mouse Click at (966, 37) - screenshot saved
+
+[2025-12-13 11:48:51.714453] - Mouse Click at (303, 24) - screenshot saved
+
+[2025-12-13 11:48:59.519764] - Mouse Click at (712, 1598) - screenshot saved
+başka projeye nasıl değişiklik yapabikr[BACKSPACE][BACKSPACE]lriz[BACKSPACE][BACKSPACE][BACKSPACE]iriz
+
+[2025-12-13 11:49:14.849534] - Mouse Click at (1840, 1875) - screenshot saved
+
+[2025-12-13 11:49:19.568585] - Mouse Click at (560, 417) - screenshot saved
+sdefregthyu
+anne sütü içmek lazım
+la halam beni nasıl emzirmiş
+he e[BACKSPACE]benid[BACKSPACE] değil ablamıydı
+adweratry56u7[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]
+[2025-12-13 11:50:07.089131] - Mouse Click at (534, 1123) - screenshot saved
+
+[2025-12-13 11:50:23.545989] - Mouse Click at (488, 375) - screenshot saved
+ba[BACKSPACE]en iyiyi k[BACKSPACE][BACKSPACE]m kral ya
+magnezyum lazım bana
+uyku kalitesi i çin
+düzelttimm y[BACKSPACE][BACKSPACE][BACKSPACE] ya amk
+dsfıorgrhy
+süt annn[BACKSPACE]en diyip durduğu geldi aklıma
+anamın
+
+[2025-12-13 11:51:33.412219] - Mouse Click at (550, 929) - screenshot saved
+[CAPS_LOCK]m[CAPS_LOCK]esuutt
+şu magnezyumun formu neydi
+senin kullandığın var mıı
+
+[2025-12-13 11:51:46.996060] - Mouse Click at (502, 570) - screenshot saved
+cici bebe[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]
+[2025-12-13 11:52:01.259604] - Mouse Click at (2650, 47) - screenshot saved
+
+[2025-12-13 11:52:58.074315] - Mouse Click at (595, 1655) - screenshot saved
+hayatım benim önce bu projeyi ç[BACKSPACE][BACKSPACE][BACKSPACE]i githubta açıp değişiklik yapmam yani commit atmam gerekiyor önce açmam lazım yani nasıl yapıcam
+
+[2025-12-13 11:53:27.054575] - Mouse Click at (1807, 1867) - screenshot saved
+
+[2025-12-13 11:53:31.223378] - Mouse Click at (584, 367) - screenshot saved
+
+[2025-12-13 11:53:43.089765] - Mouse Click at (2655, 5) - screenshot saved
+
+[2025-12-13 11:53:57.977149] - Mouse Click at (638, 1669) - screenshot saved
+çç[BACKSPACE]ocuk ana[BACKSPACE][BACKSPACE][BACKSPACE]bana s[BACKSPACE]istek attı zaten 
+
+[2025-12-13 11:54:09.926159] - Mouse Click at (1069, 42) - screenshot saved
+f[BACKSPACE][BACKSPACE]fit[BACKSPACE][BACKSPACE][BACKSPACE]git
+
+[2025-12-13 11:54:14.884484] - Mouse Click at (323, 0) - screenshot saved
+
+[2025-12-13 11:54:25.388552] - Mouse Click at (1219, 0) - screenshot saved
+
+[2025-12-13 11:54:35.189464] - Mouse Click at (150, 810) - screenshot saved
+
+[2025-12-13 11:54:35.771437] - Mouse Click at (176, 780) - screenshot saved
+
+[2025-12-13 11:54:41.235371] - Mouse Click at (2775, 310) - screenshot saved
+
+[2025-12-13 11:54:45.541713] - Mouse Click at (2550, 1038) - screenshot saved
+
+[2025-12-13 11:54:50.901342] - Mouse Click at (19, 125) - screenshot saved
+
+[2025-12-13 11:54:53.188076] - Mouse Click at (21, 126) - screenshot saved
+
+[2025-12-13 11:54:55.731438] - Mouse Click at (945, 1196) - screenshot saved
+
+[2025-12-13 11:55:08.054585] - Mouse Click at (477, 870) - screenshot saved
+
+[2025-12-13 11:55:25.608905] - Mouse Click at (40, 112) - screenshot saved
+
+[2025-12-13 11:55:28.005662] - Mouse Click at (1465, 1304) - screenshot saved
+
+[2025-12-13 11:55:33.997829] - Mouse Click at (2526, 940) - screenshot saved
+
+[2025-12-13 11:55:39.843078] - Mouse Click at (2505, 600) - screenshot saved
+
+[2025-12-13 11:55:42.391894] - Mouse Click at (2483, 938) - screenshot saved
+
+[2025-12-13 11:55:45.999039] - Mouse Click at (2491, 882) - screenshot saved
+
+[2025-12-13 11:55:52.184660] - Mouse Click at (66, 116) - screenshot saved
+
+[2025-12-13 11:55:58.430046] - Mouse Click at (28, 148) - screenshot saved
+
+[2025-12-13 11:56:00.935735] - Mouse Click at (33, 150) - screenshot saved
+
+[2025-12-13 11:56:02.564728] - Mouse Click at (33, 150) - screenshot saved
+
+[2025-12-13 11:56:06.811368] - Mouse Click at (54, 117) - screenshot saved
+
+[2025-12-13 11:57:02.990203] - Mouse Click at (777, 0) - screenshot saved
+
+[2025-12-13 11:57:04.648378] - Mouse Click at (120, 1392) - screenshot saved
+
+[2025-12-13 11:57:06.456200] - Mouse Click at (1255, 0) - screenshot saved
+
+[2025-12-13 11:57:14.547486] - Mouse Click at (360, 0) - screenshot saved
+
+[2025-12-13 11:57:18.412516] - Mouse Click at (1190, 0) - screenshot saved
+
+[2025-12-13 11:57:19.990183] - Mouse Click at (52, 134) - screenshot saved
+
+[2025-12-13 11:57:21.947592] - Mouse Click at (280, 646) - screenshot saved
+
+[2025-12-13 11:57:31.150852] - Mouse Click at (254, 0) - screenshot saved
+
+[2025-12-13 11:57:45.873997] - Mouse Click at (1272, 0) - screenshot saved
+
+[2025-12-13 11:57:47.372024] - Mouse Click at (2380, 1873) - screenshot saved
+[CMD][SHIFT]S
+[2025-12-13 11:57:49.939556] - Mouse Click at (6, 5) - screenshot saved
+
+[2025-12-13 11:57:51.054422] - Mouse Click at (358, 1) - screenshot saved
+[CTRL_L]
+[2025-12-13 11:57:51.926250] - Mouse Click at (678, 1626) - screenshot saved
+buraa[BACKSPACE]dan nasıl uya[BACKSPACE][BACKSPACE][BACKSPACE]yapıcaz
+
+[2025-12-13 11:58:08.378055] - Mouse Click at (1914, 1873) - screenshot saved
+
+[2025-12-13 11:58:13.833624] - Mouse Click at (1686, 1514) - screenshot saved
+
+[2025-12-13 11:58:15.841367] - Mouse Click at (1873, 1534) - screenshot saved
+
+[2025-12-13 11:58:16.703411] - Mouse Click at (1957, 1631) - screenshot saved
+
+[2025-12-13 11:58:25.272969] - Mouse Click at (1579, 1002) - screenshot saved
+
+
+[2025-12-13 11:58:27.914992] - Mouse Click at (2640, 4) - screenshot saved
+
+[2025-12-13 11:58:33.309211] - Mouse Click at (1818, 1877) - screenshot saved
+
+[2025-12-13 11:58:34.211650] - Mouse Click at (1818, 1874) - screenshot saved
+
+[2025-12-13 11:58:35.023119] - Mouse Click at (1818, 1874) - screenshot saved
+
+[2025-12-13 11:58:37.907516] - Mouse Click at (610, 384) - screenshot saved
+hiçbi şey yapmıyomuşum 
+yapmıyom eve[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]arın bakıcam dedim göt verene[BACKSPACE]
+zamanım yok dedimüayrı[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]
+ayrıca bilerek her şeyi ona yaptırıyorum e[BACKSPACE]her şeyin bi bedeli var bana yanlış yapmayacaktın
+
+[2025-12-13 11:59:22.890166] - Mouse Click at (2628, 10) - screenshot saved
+
+[2025-12-13 11:59:49.161587] - Mouse Click at (1248, 0) - screenshot saved
+
+[2025-12-13 11:59:58.473669] - Mouse Click at (332, 1029) - screenshot saved
+
+[2025-12-13 12:00:00.790300] - Mouse Click at (849, 1026) - screenshot saved
+
+[2025-12-13 12:00:01.058407] - Mouse Click at (849, 1026) - screenshot saved
+
+[2025-12-13 12:00:02.164685] - Mouse Click at (1097, 1032) - screenshot saved
+
+[2025-12-13 12:00:05.878702] - Mouse Click at (369, 26) - screenshot saved
+
+[2025-12-13 12:00:10.293859] - Mouse Click at (1184, 0) - screenshot saved
+
+[2025-12-13 12:00:14.773120] - Mouse Click at (422, 929) - screenshot saved
+
+[2025-12-13 12:00:22.372999] - Mouse Click at (2324, 693) - screenshot saved
+
+[2025-12-13 12:00:26.763019] - Mouse Click at (374, 10) - screenshot saved
+
+[2025-12-13 12:01:00.719376] - Mouse Click at (784, 1635) - screenshot saved
+başka ne gibi değii[BACKSPACE]şiklikler yapabiliriz hocanın ilgiis[BACKSPACE][BACKSPACE]sini çeksin
+
+[2025-12-13 12:01:30.435813] - Mouse Click at (1800, 1888) - screenshot saved
+
+[2025-12-13 12:01:32.983315] - Mouse Click at (629, 374) - screenshot saved
+
+[2025-12-13 12:01:47.283595] - Mouse Click at (507, 650) - screenshot saved
+beni sen anş[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]ben al[BACKSPACE]nlatmasam da sen anlasan
+
+[2025-12-13 12:02:09.562089] - Mouse Click at (2847, 0) - screenshot saved
+
+[2025-12-13 12:04:21.225569] - Mouse Click at (184, 1706) - screenshot saved
+
+[2025-12-13 12:04:22.460748] - Mouse Click at (857, 1705) - screenshot saved
+bizim rağpr[BACKSPACE][BACKSPACE][BACKSPACE]pora iyice bak ne var ne yok ona göre 
+[2025-12-13 12:04:34.120423] - Mouse Click at (179, 1708) - screenshot saved
+
+[2025-12-13 12:04:36.184868] - Mouse Click at (356, 1590) - screenshot saved
+
+[2025-12-13 12:04:38.729751] - Mouse Click at (2270, 385) - screenshot saved
+
+[2025-12-13 12:04:44.617177] - Mouse Click at (1081, 658) - screenshot saved
+
+[2025-12-13 12:04:45.141517] - Mouse Click at (1081, 658) - screenshot saved
+
+[2025-12-13 12:04:48.552842] - Mouse Click at (1396, 1410) - screenshot saved
+
+[2025-12-13 12:05:59.450119] - Mouse Click at (883, 1867) - screenshot saved
+w
+[2025-12-13 12:06:02.160736] - Mouse Click at (914, 650) - screenshot saved
+
+[2025-12-13 12:06:36.252990] - Mouse Click at (628, 1337) - screenshot saved
+
+[2025-12-13 12:06:41.240216] - Mouse Click at (2653, 43) - screenshot saved
+
+[2025-12-13 12:06:58.692651] - Mouse Click at (502, 1639) - screenshot saved
+sıra sıra hepsiyle başla
+
+[2025-12-13 12:07:11.071819] - Mouse Click at (2284, 1895) - screenshot saved
+
+[2025-12-13 12:07:13.393955] - Mouse Click at (2284, 1895) - screenshot saved
+
+[2025-12-13 12:07:45.114363] - Mouse Click at (2091, 1872) - screenshot saved
+
+[2025-12-13 12:07:46.219748] - Mouse Click at (2100, 1900) - screenshot saved
+
+[2025-12-13 12:07:47.302064] - Mouse Click at (2087, 1871) - screenshot saved
+
+[2025-12-13 12:07:49.922536] - Mouse Click at (1924, 1745) - screenshot saved
+
+[2025-12-13 12:07:50.966521] - Mouse Click at (2775, 565) - screenshot saved
+
+[2025-12-13 12:10:06.723927] - Mouse Click at (1863, 769) - screenshot saved
+
+[2025-12-13 12:10:13.213874] - Mouse Click at (2245, 1876) - screenshot saved
+
+[2025-12-13 12:10:14.084538] - Mouse Click at (2245, 1876) - screenshot saved
+
+[2025-12-13 12:10:14.767378] - Mouse Click at (2245, 1876) - screenshot saved
+
+[2025-12-13 12:10:15.510773] - Mouse Click at (753, 1865) - screenshot saved
+cmd
+
+[2025-12-13 12:10:19.233728] - Mouse Click at (1365, 239) - screenshot saved
+
+[2025-12-13 12:10:20.964399] - Mouse Click at (1370, 956) - screenshot saved
+
+[2025-12-13 12:10:22.429550] - Mouse Click at (2255, 1885) - screenshot saved
+
+[2025-12-13 12:10:23.282792] - Mouse Click at (2256, 1893) - screenshot saved
+
+[2025-12-13 12:10:24.240221] - Mouse Click at (2249, 1893) - screenshot saved
+
+[2025-12-13 12:10:25.108982] - Mouse Click at (2363, 1717) - screenshot saved
+
+[2025-12-13 12:10:25.884780] - Mouse Click at (2077, 1548) - screenshot saved
+
+[2025-12-13 12:10:28.061386] - Mouse Click at (2131, 1340) - screenshot saved
+
+[2025-12-13 12:10:29.666062] - Mouse Click at (860, 800) - screenshot saved
+
+[2025-12-13 12:10:30.542457] - Mouse Click at (722, 996) - screenshot saved
+
+[2025-12-13 12:10:31.175111] - Mouse Click at (722, 1025) - screenshot saved
+
+[2025-12-13 12:10:32.510558] - Mouse Click at (276, 1038) - screenshot saved
+
+[2025-12-13 12:10:33.364534] - Mouse Click at (387, 1100) - screenshot saved
+
+[2025-12-13 12:10:34.772543] - Mouse Click at (2259, 1855) - screenshot saved
+
+[2025-12-13 12:10:36.153634] - Mouse Click at (2364, 1718) - screenshot saved
+
+[2025-12-13 12:10:36.713136] - Mouse Click at (1873, 1212) - screenshot saved
+
+
+[2025-12-13 12:10:38.974683] - Mouse Click at (687, 1066) - screenshot saved
+
+[2025-12-13 12:10:39.666947] - Mouse Click at (696, 1067) - screenshot saved
+
+[2025-12-13 12:10:40.910887] - Mouse Click at (461, 1078) - screenshot saved
+
+[2025-12-13 12:10:41.485699] - Mouse Click at (522, 1061) - screenshot saved
+
+[2025-12-13 12:10:42.918170] - Mouse Click at (691, 1072) - screenshot saved
+
+[2025-12-13 12:10:44.443685] - Mouse Click at (289, 1059) - screenshot saved
+
+[2025-12-13 12:10:45.097981] - Mouse Click at (383, 1092) - screenshot saved
+
+[2025-12-13 12:10:46.020827] - Mouse Click at (2270, 1870) - screenshot saved
+
+[2025-12-13 12:10:46.801106] - Mouse Click at (2333, 1720) - screenshot saved
+
+[2025-12-13 12:10:47.372805] - Mouse Click at (2189, 1513) - screenshot saved
+
+
+[2025-12-13 12:10:56.506816] - Mouse Click at (2361, 1868) - screenshot saved
+[CMD][SHIFT]S
+[2025-12-13 12:10:58.958901] - Mouse Click at (766, 1234) - screenshot saved
+
+[2025-12-13 12:11:01.666301] - Mouse Click at (2447, 1009) - screenshot saved
+
+[2025-12-13 12:11:02.718037] - Mouse Click at (2669, 1208) - screenshot saved
+
+[2025-12-13 12:11:04.759120] - Mouse Click at (481, 1613) - screenshot saved
+[CTRL_L]
+[2025-12-13 12:11:09.129074] - Mouse Click at (1392, 1400) - screenshot saved
+
+[2025-12-13 12:11:33.383005] - Mouse Click at (1358, 1046) - screenshot saved
+
+[2025-12-13 12:11:35.220470] - Mouse Click at (2275, 1885) - screenshot saved
+
+[2025-12-13 12:11:36.620603] - Mouse Click at (2078, 1759) - screenshot saved
+
+[2025-12-13 12:11:37.385390] - Mouse Click at (2109, 1093) - screenshot saved
+
+[2025-12-13 12:11:38.719418] - Mouse Click at (1639, 1531) - screenshot saved
+
+[2025-12-13 12:11:39.483814] - Mouse Click at (1633, 1537) - screenshot saved
+
+[2025-12-13 12:11:40.510948] - Mouse Click at (2299, 549) - screenshot saved
+
+[2025-12-13 12:11:41.579665] - Mouse Click at (2694, 556) - screenshot saved
+
+[2025-12-13 12:13:55.197151] - Mouse Click at (1538, 338) - screenshot saved
+
+[2025-12-13 12:13:59.871350] - Mouse Click at (2264, 1868) - screenshot saved
+
+[2025-12-13 12:14:01.210759] - Mouse Click at (2032, 1695) - screenshot saved
+
+[2025-12-13 12:14:03.417258] - Mouse Click at (2652, 28) - screenshot saved
+
+[2025-12-13 12:14:05.160193] - Mouse Click at (746, 813) - screenshot saved
+
+[2025-12-13 12:14:06.726888] - Mouse Click at (255, 823) - screenshot saved
+
+[2025-12-13 12:14:07.534733] - Mouse Click at (383, 887) - screenshot saved
+
+[2025-12-13 12:14:08.296789] - Mouse Click at (2248, 1873) - screenshot saved
+
+[2025-12-13 12:14:09.116930] - Mouse Click at (2126, 1756) - screenshot saved
+
+[2025-12-13 12:14:09.716854] - Mouse Click at (2044, 1732) - screenshot saved
+
+
+[2025-12-13 12:14:12.032993] - Mouse Click at (2648, 46) - screenshot saved
+
+[2025-12-13 12:14:13.524587] - Mouse Click at (768, 861) - screenshot saved
+
+[2025-12-13 12:14:14.266264] - Mouse Click at (714, 884) - screenshot saved
+
+[2025-12-13 12:14:15.774260] - Mouse Click at (203, 893) - screenshot saved
+
+[2025-12-13 12:14:16.570757] - Mouse Click at (269, 926) - screenshot saved
+
+[2025-12-13 12:14:17.408304] - Mouse Click at (2262, 1894) - screenshot saved
+
+[2025-12-13 12:14:18.495946] - Mouse Click at (2079, 1742) - screenshot saved
+
+[2025-12-13 12:14:19.101850] - Mouse Click at (1622, 1761) - screenshot saved
+
+
+
+[2025-12-13 12:35:18.411814] - Mouse Click at (2289, 1876) - screenshot saved
+[CMD][SHIFT]S
+[2025-12-13 12:35:24.094244] - Mouse Click at (8, 246) - screenshot saved
+
+[2025-12-13 12:35:32.634403] - Mouse Click at (2802, 1493) - screenshot saved
+
+[2025-12-13 12:35:34.316603] - Mouse Click at (2346, 1886) - screenshot saved
+[CMD][SHIFT]S
+[2025-12-13 12:35:39.240577] - Mouse Click at (0, 583) - screenshot saved
+
+[2025-12-13 12:35:43.784562] - Mouse Click at (2666, 10) - screenshot saved
+
+[2025-12-13 12:35:55.085386] - Mouse Click at (286, 1246) - screenshot saved
+[CTRL_L]
+[2025-12-13 12:36:00.424201] - Mouse Click at (846, 1842) - screenshot saved
+s
+[2025-12-13 12:36:02.933748] - Mouse Click at (944, 601) - screenshot saved
+
+[2025-12-13 12:36:10.046939] - Mouse Click at (2079, 1870) - screenshot saved
+
+[2025-12-13 12:36:12.859733] - Mouse Click at (699, 423) - screenshot saved
+bilgili bi adamsiniz 
+bugun yu[BACKSPACE][BACKSPACE]müslinin içinde kapak çekirdi[BACKSPACE]eği içi vardı aklımag[BACKSPACE] geldin kahkaha attım
+
+[2025-12-13 12:36:42.251779] - Mouse Click at (418, 1111) - screenshot saved
+geri sayım başlasın
+tokattaki orospu çcouklarının celladı geliyopr[BACKSPACE][BACKSPACE]r
+ini[BACKSPACE]şallah çağaa[BACKSPACE]tau[BACKSPACE]y orospusud[BACKSPACE]d a gelir
+
+[2025-12-13 12:37:08.148601] - Mouse Click at (526, 481) - screenshot saved
+
+[2025-12-13 12:37:13.869846] - Mouse Click at (623, 914) - screenshot saved
+
+[2025-12-13 12:37:15.525077] - Mouse Click at (1452, 1510) - screenshot saved
+
+[2025-12-13 12:37:17.529417] - Mouse Click at (1669, 782) - screenshot saved
+b
+[2025-12-13 12:37:19.927132] - Mouse Click at (1506, 1775) - screenshot saved
+bi [CAPS_LOCK]a[CAPS_LOCK]tam bi sen
+[CAPS_LOCK]ben d[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][CAPS_LOCK]en de tek basima [CAPS_LOCK]t[CAPS_LOCK]ürk kahvesi icme aliskanligi kazanmak istiyorum
+
+[2025-12-13 12:38:01.998485] - Mouse Click at (546, 538) - screenshot saved
+
+[2025-12-13 12:38:03.699630] - Mouse Click at (1079, 1552) - screenshot saved
+gün söyle aşkım
+günn
+
+[2025-12-13 12:38:41.663883] - Mouse Click at (717, 700) - screenshot saved
+
+[2025-12-13 12:38:44.981135] - Mouse Click at (596, 386) - screenshot saved
+hmmm
+b[BACKSPACE]baki[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]bakim o vi[BACKSPACE][BACKSPACE]civara
+ben yilbasinda gelebe[BACKSPACE][BACKSPACE][BACKSPACE]icem galiba btw
+
+[2025-12-13 12:39:04.398039] - Mouse Click at (534, 486) - screenshot saved
+
+[2025-12-13 12:39:08.191377] - Mouse Click at (372, 637) - screenshot saved
+
+[2025-12-13 12:39:17.106816] - Mouse Click at (2879, 4) - screenshot saved
+
+[2025-12-13 12:39:19.478254] - Mouse Click at (1411, 82) - screenshot saved
+sevek[BACKSPACE][BACKSPACE]me [BACKSPACE]k suçsa seviyorum
+[2025-12-13 12:39:28.323293] - Mouse Click at (1394, 814) - screenshot saved
+
+[2025-12-13 12:39:30.791699] - Mouse Click at (2627, 103) - screenshot saved
+
+[2025-12-13 12:39:34.724826] - Mouse Click at (235, 1261) - screenshot saved
+
+[2025-12-13 12:39:35.657149] - Mouse Click at (318, 1297) - screenshot saved
+
+[2025-12-13 12:39:36.486080] - Mouse Click at (2190, 1876) - screenshot saved
+
+[2025-12-13 12:39:37.448590] - Mouse Click at (2172, 1907) - screenshot saved
+
+[2025-12-13 12:39:39.679872] - Mouse Click at (2155, 1879) - screenshot saved
+
+[2025-12-13 12:39:40.593231] - Mouse Click at (2190, 1892) - screenshot saved
+
+[2025-12-13 12:39:41.739974] - Mouse Click at (2167, 1885) - screenshot saved
+
+[2025-12-13 12:39:42.645809] - Mouse Click at (2181, 1895) - screenshot saved
+
+[2025-12-13 12:39:44.313036] - Mouse Click at (2281, 1739) - screenshot saved
+
+[2025-12-13 12:39:45.652709] - Mouse Click at (2160, 1878) - screenshot saved
+
+[2025-12-13 12:39:46.596916] - Mouse Click at (1960, 1735) - screenshot saved
+
+[2025-12-13 12:39:47.341743] - Mouse Click at (1937, 1711) - screenshot saved
+
+
+[2025-12-13 12:39:49.349966] - Mouse Click at (2667, 23) - screenshot saved
+
+[2025-12-13 12:39:50.539089] - Mouse Click at (395, 1361) - screenshot saved
+
+[2025-12-13 12:39:51.378761] - Mouse Click at (773, 1296) - screenshot saved
+
+[2025-12-13 12:39:56.824963] - Mouse Click at (548, 709) - screenshot saved
+
+[2025-12-13 12:39:59.334185] - Mouse Click at (457, 696) - screenshot saved
+
+[2025-12-13 12:40:00.335111] - Mouse Click at (549, 755) - screenshot saved
+
+[2025-12-13 12:40:01.265616] - Mouse Click at (2195, 1907) - screenshot saved
+
+[2025-12-13 12:40:02.952134] - Mouse Click at (2021, 1709) - screenshot saved
+
+[2025-12-13 12:40:03.553427] - Mouse Click at (1801, 1730) - screenshot saved
+
+
+[2025-12-13 12:40:05.724065] - Mouse Click at (2647, 29) - screenshot saved
+
+[2025-12-13 12:40:07.773313] - Mouse Click at (176, 747) - screenshot saved
+
+[2025-12-13 12:40:09.855843] - Mouse Click at (1297, 733) - screenshot saved
+
+[2025-12-13 12:40:10.635326] - Mouse Click at (1343, 786) - screenshot saved
+
+[2025-12-13 12:40:11.452699] - Mouse Click at (2206, 1906) - screenshot saved
+
+[2025-12-13 12:40:12.808860] - Mouse Click at (1926, 1741) - screenshot saved
+
+[2025-12-13 12:40:13.313207] - Mouse Click at (1893, 1715) - screenshot saved
+
+
+[2025-12-13 12:40:19.407686] - Mouse Click at (2627, 27) - screenshot saved
+
+[2025-12-13 12:40:20.743596] - Mouse Click at (719, 852) - screenshot saved
+
+[2025-12-13 12:40:21.804107] - Mouse Click at (327, 794) - screenshot saved
+
+[2025-12-13 12:40:22.428706] - Mouse Click at (308, 791) - screenshot saved
+
+[2025-12-13 12:40:23.333007] - Mouse Click at (231, 805) - screenshot saved
+
+[2025-12-13 12:40:24.329995] - Mouse Click at (302, 857) - screenshot saved
+
+[2025-12-13 12:40:26.640752] - Mouse Click at (2112, 1878) - screenshot saved
+
+[2025-12-13 12:40:27.886159] - Mouse Click at (2112, 1878) - screenshot saved
+
+[2025-12-13 12:40:28.412143] - Mouse Click at (2192, 1875) - screenshot saved
+
+[2025-12-13 12:40:30.865109] - Mouse Click at (2095, 1738) - screenshot saved
+
+[2025-12-13 12:40:31.460178] - Mouse Click at (1734, 1736) - screenshot saved
+
+
+[2025-12-13 12:40:42.770644] - Mouse Click at (2610, 15) - screenshot saved
+
+[2025-12-13 12:40:46.987078] - Mouse Click at (1349, 22) - screenshot saved
+
+[2025-12-13 12:40:52.007123] - Mouse Click at (196, 118) - screenshot saved
+
+[2025-12-13 12:41:06.616845] - Mouse Click at (2752, 1103) - screenshot saved
+
+[2025-12-13 12:41:08.614700] - Mouse Click at (1672, 1274) - screenshot saved
+
+[2025-12-13 12:41:20.722121] - Mouse Click at (343, 1195) - screenshot saved
+
+[2025-12-13 12:41:29.114476] - Mouse Click at (347, 600) - screenshot saved
+
+[2025-12-13 12:41:30.148877] - Mouse Click at (377, 480) - screenshot saved
+
+[2025-12-13 12:41:36.429428] - Mouse Click at (2874, 730) - screenshot saved
+
+[2025-12-13 12:41:57.705238] - Mouse Click at (2171, 1884) - screenshot saved
+
+[2025-12-13 12:41:59.439745] - Mouse Click at (2082, 1721) - screenshot saved
+
+[2025-12-13 12:42:06.765189] - Mouse Click at (512, 1652) - screenshot saved
+
+[2025-12-13 12:42:08.122301] - Mouse Click at (741, 1646) - screenshot saved
+
+[2025-12-13 12:42:08.395631] - Mouse Click at (741, 1646) - screenshot saved
+
+[2025-12-13 12:42:08.831382] - Mouse Click at (741, 1646) - screenshot saved
+
+[2025-12-13 12:42:10.844442] - Mouse Click at (2651, 23) - screenshot saved
+
+[2025-12-13 12:42:13.301552] - Mouse Click at (139, 409) - screenshot saved
+
+[2025-12-13 12:42:14.088018] - Mouse Click at (205, 404) - screenshot saved
+
+[2025-12-13 12:42:14.864689] - Mouse Click at (25, 138) - screenshot saved
+
+[2025-12-13 12:42:17.726579] - Mouse Click at (164, 607) - screenshot saved
+
+[2025-12-13 12:42:30.327639] - Mouse Click at (52, 143) - screenshot saved
+
+[2025-12-13 12:42:32.777943] - Mouse Click at (76, 143) - screenshot saved
+
+[2025-12-13 12:42:33.187102] - Mouse Click at (76, 143) - screenshot saved
+[ALT_L]	
+[2025-12-13 12:42:41.451907] - Mouse Click at (699, 1651) - screenshot saved
+
+[2025-12-13 12:42:42.759144] - Mouse Click at (815, 1647) - screenshot saved
+
+[2025-12-13 12:42:44.105355] - Mouse Click at (120, 1651) - screenshot saved
+
+[2025-12-13 12:42:45.910522] - Mouse Click at (150, 1663) - screenshot saved
+
+[2025-12-13 12:42:46.762283] - Mouse Click at (166, 1650) - screenshot saved
+[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]
+[2025-12-13 12:42:56.255299] - Mouse Click at (381, 1657) - screenshot saved
+
+[2025-12-13 12:42:58.298318] - Mouse Click at (401, 1656) - screenshot saved
+
+[2025-12-13 12:42:58.948589] - Mouse Click at (401, 1656) - screenshot saved
+
+[2025-12-13 12:42:59.205443] - Mouse Click at (401, 1656) - screenshot saved
+
+[2025-12-13 12:42:59.978845] - Mouse Click at (519, 1659) - screenshot saved
+
+[2025-12-13 12:43:00.239923] - Mouse Click at (519, 1659) - screenshot saved
+
+[2025-12-13 12:43:00.484661] - Mouse Click at (519, 1659) - screenshot saved
+
+[2025-12-13 12:43:01.165699] - Mouse Click at (721, 1787) - screenshot saved
+
+[2025-12-13 12:43:01.776089] - Mouse Click at (721, 1787) - screenshot saved
+
+[ALT_L]	
+[2025-12-13 12:43:08.136798] - Mouse Click at (696, 1917) - screenshot saved
+
+[2025-12-13 12:43:08.949529] - Mouse Click at (689, 1904) - screenshot saved
+w
+[2025-12-13 12:43:11.212595] - Mouse Click at (887, 649) - screenshot saved
+
+[2025-12-13 12:43:13.917207] - Mouse Click at (576, 368) - screenshot saved
+bence de onu yapmayalim
+performans olce [BACKSPACE][BACKSPACE]me kismi ekledim
+
+[2025-12-13 12:43:29.192796] - Mouse Click at (1011, 1795) - screenshot saved
+
+[2025-12-13 12:43:30.958288] - Mouse Click at (1889, 984) - screenshot saved
+
+[2025-12-13 12:43:37.706801] - Mouse Click at (1257, 1194) - screenshot saved
+[ESC]
+[2025-12-13 12:43:46.566241] - Mouse Click at (1024, 1741) - screenshot saved
+
+[2025-12-13 12:43:49.095123] - Mouse Click at (1087, 1312) - screenshot saved
+
+[2025-12-13 12:43:55.859944] - Mouse Click at (401, 837) - screenshot saved
+
+[2025-12-13 12:43:58.526392] - Mouse Click at (335, 700) - screenshot saved
+
+[2025-12-13 12:43:58.935486] - Mouse Click at (335, 700) - screenshot saved
+
+[2025-12-13 12:43:59.858033] - Mouse Click at (779, 375) - screenshot saved
+
+[2025-12-13 12:44:00.188437] - Mouse Click at (779, 375) - screenshot saved
+
+[2025-12-13 12:44:02.099756] - Mouse Click at (52, 96) - screenshot saved
+
+[2025-12-13 12:44:02.989866] - Mouse Click at (823, 302) - screenshot saved
+
+[2025-12-13 12:44:03.313349] - Mouse Click at (823, 302) - screenshot saved
+
+[2025-12-13 12:44:04.970128] - Mouse Click at (2487, 253) - screenshot saved
+
+[2025-12-13 12:44:08.310433] - Mouse Click at (2383, 1247) - screenshot saved
+
+[2025-12-13 12:44:09.578301] - Mouse Click at (2197, 1498) - screenshot saved
+
+b
+[2025-12-13 12:44:14.932357] - Mouse Click at (1899, 1767) - screenshot saved
+enim commit gorunuyo mu ya sizde
+
+[2025-12-13 12:44:22.583730] - Mouse Click at (2665, 38) - screenshot saved
+
+[2025-12-13 12:44:25.995828] - Mouse Click at (1585, 1169) - screenshot saved
+
+[2025-12-13 12:44:30.893901] - Mouse Click at (322, 0) - screenshot saved
+
+[2025-12-13 12:44:41.260213] - Mouse Click at (667, 1859) - screenshot saved
+gem
+[2025-12-13 12:44:46.851586] - Mouse Click at (1512, 10) - screenshot saved
+gemi
+
+[2025-12-13 12:44:51.381725] - Mouse Click at (2286, 1893) - screenshot saved
+
+[2025-12-13 12:45:00.024851] - Mouse Click at (585, 390) - screenshot saved
+
+[2025-12-13 12:45:02.943831] - Mouse Click at (549, 521) - screenshot saved
+
+[2025-12-13 12:45:11.289813] - Mouse Click at (607, 1138) - screenshot saved
+[CAPS_LOCK]emre aksam tc kahvesi icme teklif etti
+
+[2025-12-13 12:45:30.335494] - Mouse Click at (434, 1293) - screenshot saved
+aksam tc kahvesi icme r[BACKSPACE]teklif etti
+
+[2025-12-13 12:45:43.664478] - Mouse Click at (2668, 24) - screenshot saved
+[CAPS_LOCK]şimdi ben şunşa[BACKSPACE][BACKSPACE]ları yapı[BACKSPACE]tım ama githubta föe[BACKSPACE][BACKSPACE][BACKSPACE]göremiyorum napıcam
+[2025-12-13 12:45:58.619730] - Mouse Click at (773, 1075) - screenshot saved
+
+[2025-12-13 12:45:59.811600] - Mouse Click at (937, 1174) - screenshot saved
+
+[2025-12-13 12:46:03.220052] - Mouse Click at (362, 704) - screenshot saved
+
+[2025-12-13 12:46:03.535939] - Mouse Click at (362, 704) - screenshot saved
+
+[2025-12-13 12:46:05.010226] - Mouse Click at (368, 789) - screenshot saved
+
+[2025-12-13 12:46:06.356751] - Mouse Click at (380, 829) - screenshot saved
+
+[2025-12-13 12:46:12.215072] - Mouse Click at (301, 757) - screenshot saved
+
+[2025-12-13 12:46:14.068263] - Mouse Click at (2274, 268) - screenshot saved
+
+[2025-12-13 12:46:15.789595] - Mouse Click at (2173, 1170) - screenshot saved
+
+[2025-12-13 12:46:17.216917] - Mouse Click at (1975, 1398) - screenshot saved
+
+[2025-12-13 12:46:19.018569] - Mouse Click at (2112, 1884) - screenshot saved
+
+[2025-12-13 12:46:19.968183] - Mouse Click at (2269, 1868) - screenshot saved
+
+[2025-12-13 12:46:21.529144] - Mouse Click at (2274, 1869) - screenshot saved
+
+[2025-12-13 12:46:23.847950] - Mouse Click at (2096, 1878) - screenshot saved
+
+[2025-12-13 12:46:24.597059] - Mouse Click at (2096, 1878) - screenshot saved
+
+[2025-12-13 12:46:25.734537] - Mouse Click at (1893, 1738) - screenshot saved
+[CMD]
+[2025-12-13 12:46:28.913403] - Mouse Click at (2357, 1893) - screenshot saved
+[SHIFT]S
+[2025-12-13 12:46:31.248940] - Mouse Click at (0, 847) - screenshot saved
+
+[2025-12-13 12:46:33.444234] - Mouse Click at (2638, 18) - screenshot saved
+[CTRL_L][ALT_L]	
+[2025-12-13 12:46:40.358999] - Mouse Click at (1825, 1897) - screenshot saved
+
+[2025-12-13 12:46:42.057247] - Mouse Click at (1672, 1880) - screenshot saved
+
+[2025-12-13 12:46:46.965751] - Mouse Click at (381, 0) - screenshot saved
+
+[2025-12-13 12:47:09.772396] - Mouse Click at (1110, 0) - screenshot saved
+
+[2025-12-13 12:47:13.316083] - Mouse Click at (202, 120) - screenshot saved
+
+[2025-12-13 12:47:22.062924] - Mouse Click at (794, 129) - screenshot saved
+
+[2025-12-13 12:47:25.318595] - Mouse Click at (831, 129) - screenshot saved
+[BACKSPACE]
+
+[2025-12-13 12:47:39.577963] - Mouse Click at (1128, 782) - screenshot saved
+
+[2025-12-13 12:47:52.964600] - Mouse Click at (37, 141) - screenshot saved
+
+[2025-12-13 12:47:55.089824] - Mouse Click at (1277, 1668) - screenshot saved
+[CMD][SHIFT]S
+[2025-12-13 12:47:57.601664] - Mouse Click at (211, 731) - screenshot saved
+[ALT_L]	[ALT_L]	
+[2025-12-13 12:48:03.376877] - Mouse Click at (1704, 0) - screenshot saved
+[CTRL_L][ALT_L]	[ALT_L]	
+[2025-12-13 12:48:06.668217] - Mouse Click at (1823, 1876) - screenshot saved
+
+[2025-12-13 12:48:07.805793] - Mouse Click at (2246, 1859) - screenshot saved
+
+[2025-12-13 12:48:13.702812] - Mouse Click at (516, 932) - screenshot saved
+
+[2025-12-13 12:48:21.021814] - Mouse Click at (2208, 1285) - screenshot saved
+
+[2025-12-13 12:48:25.198423] - Mouse Click at (2820, 929) - screenshot saved
+[ESC]
+[2025-12-13 12:48:29.893739] - Mouse Click at (2623, 17) - screenshot saved
+
+[2025-12-13 12:48:32.664305] - Mouse Click at (1806, 1880) - screenshot saved
+
+[2025-12-13 12:48:34.930564] - Mouse Click at (1313, 31) - screenshot saved
+
+[2025-12-13 12:48:37.627599] - Mouse Click at (296, 1029) - screenshot saved
+[CMD][SHIFT]S
+[2025-12-13 12:48:45.999313] - Mouse Click at (50, 105) - screenshot saved
+[ALT_L]	[ALT_L]	
+[2025-12-13 12:48:49.403123] - Mouse Click at (1806, 1896) - screenshot saved
+
+[2025-12-13 12:48:50.659335] - Mouse Click at (1649, 1871) - screenshot saved
+
+[2025-12-13 12:48:51.759652] - Mouse Click at (1635, 1676) - screenshot saved
+
+[2025-12-13 12:48:52.732903] - Mouse Click at (1845, 0) - screenshot saved
+[CTRL_L]. src kısmına eklemem gere[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]mi gerekiyodu
+
+[2025-12-13 12:49:19.730168] - Mouse Click at (2290, 1861) - screenshot saved
+
+[2025-12-13 12:49:32.559605] - Mouse Click at (335, 1550) - screenshot saved
+amcık hoşafı tunahanı gördüm yüzüne bile a[BACKSPACE]bkmıu[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE]akmıyorum özürlü orospu çocuğu
+[2025-12-13 12:49:52.939961] - Mouse Click at (1457, 1782) - screenshot saved
+v[BACKSPACE] dün
+
+[2025-12-13 12:49:58.071102] - Mouse Click at (2627, 36) - screenshot saved
+
+[2025-12-13 12:50:03.891412] - Mouse Click at (2179, 1881) - screenshot saved
+
+[2025-12-13 12:50:05.578165] - Mouse Click at (1443, 1708) - screenshot saved
+
+[2025-12-13 12:50:06.379752] - Mouse Click at (2622, 55) - screenshot saved
+[ALT_L]	[ALT_L]	
+[2025-12-13 13:20:13.657518] - Mouse Click at (1194, 0) - screenshot saved
+
+[2025-12-13 13:20:20.706258] - Mouse Click at (231, 913) - screenshot saved
+
+[2025-12-13 13:20:26.473261] - Mouse Click at (407, 8) - screenshot saved
+
+[2025-12-13 13:20:30.331745] - Mouse Click at (1284, 19) - screenshot saved
+
+[2025-12-13 13:20:31.296504] - Mouse Click at (1555, 0) - screenshot saved
+
+[2025-12-13 13:20:32.457021] - Mouse Click at (1235, 1580) - screenshot saved
+src 
+[2025-12-13 13:21:20.947073] - Mouse Click at (2248, 1880) - screenshot saved
+
+[2025-12-13 13:21:23.404944] - Mouse Click at (578, 539) - screenshot saved
+
+[2025-12-13 13:21:24.710181] - Mouse Click at (639, 1143) - screenshot saved
+defretghyt
+amk kızı
+çok komik ve tatlısın
+
+[2025-12-13 13:21:38.783181] - Mouse Click at (727, 668) - screenshot saved
+olur anlaştıkk
+[2025-12-13 13:22:13.383270] - Mouse Click at (284, 362) - screenshot saved
+gitcem gitmiyim mi
+ne giycem
+ben alırım seni demiş
+
+[2025-12-13 13:23:22.061292] - Mouse Click at (597, 543) - screenshot saved
+
+[2025-12-13 13:23:23.430357] - Mouse Click at (1133, 1769) - screenshot saved
+
+[2025-12-13 13:23:24.802811] - Mouse Click at (1291, 1787) - screenshot saved
+[BACKSPACE]
+
+[2025-12-13 13:23:33.056464] - Mouse Click at (2846, 16) - screenshot saved
+[ALT_L]	[ALT_L]	[ALT_L]	
+[2025-12-13 13:24:00.013754] - Mouse Click at (1186, 0) - screenshot saved
+
+[2025-12-13 13:24:14.698444] - Mouse Click at (912, 1085) - screenshot saved
+
+[2025-12-13 13:24:21.508651] - Mouse Click at (1815, 1446) - screenshot saved
+
+[2025-12-13 13:24:22.189488] - Mouse Click at (1806, 1473) - screenshot saved
+
+[2025-12-13 13:24:27.573013] - Mouse Click at (2858, 1420) - screenshot saved
+
+[2025-12-13 13:24:29.002856] - Mouse Click at (295, 0) - screenshot saved
+
+[2025-12-13 13:24:32.917694] - Mouse Click at (801, 983) - screenshot saved
+
+[2025-12-13 13:25:28.751007] - Mouse Click at (2281, 1871) - screenshot saved
+
+[2025-12-13 13:25:35.575304] - Mouse Click at (884, 855) - screenshot saved
+
+[2025-12-13 13:26:27.769040] - Mouse Click at (1011, 1772) - screenshot saved
+
+[2025-12-13 13:26:29.145849] - Mouse Click at (1469, 1699) - screenshot saved
+
+[2025-12-13 13:26:34.699511] - Mouse Click at (1326, 103) - screenshot saved
+çağrı
+[2025-12-13 13:26:41.268931] - Mouse Click at (2510, 68) - screenshot saved
+
+[2025-12-13 13:26:42.561093] - Mouse Click at (1977, 263) - screenshot saved
+
+[2025-12-13 13:26:45.117184] - Mouse Click at (1510, 485) - screenshot saved
+
+[2025-12-13 13:29:03.936330] - Mouse Click at (1349, 88) - screenshot saved
+aşık olunca
+[2025-12-13 13:29:09.740057] - Mouse Click at (1271, 802) - screenshot saved
+
+[2025-12-13 13:29:18.131040] - Mouse Click at (183, 67) - screenshot saved
+
+[2025-12-13 13:29:19.353887] - Mouse Click at (1278, 62) - screenshot saved
+
+[2025-12-13 13:29:20.245376] - Mouse Click at (1015, 200) - screenshot saved
+
+[2025-12-13 13:29:23.078512] - Mouse Click at (1274, 783) - screenshot saved
+
+[2025-12-13 13:29:29.993675] - Mouse Click at (731, 1077) - screenshot saved
+
+[2025-12-13 13:29:32.936342] - Mouse Click at (2645, 76) - screenshot saved
+
+[2025-12-13 13:29:41.909569] - Mouse Click at (2615, 1874) - screenshot saved
+
+[2025-12-13 13:29:43.942762] - Mouse Click at (2473, 1628) - screenshot saved
+
+[2025-12-13 13:29:45.839355] - Mouse Click at (2330, 1864) - screenshot saved
+
+[2025-12-13 13:30:23.460941] - Mouse Click at (190, 745) - screenshot saved
+[CTRL_L]w
+[2025-12-13 13:30:25.983766] - Mouse Click at (679, 1885) - screenshot saved
+
+[2025-12-13 13:30:27.975228] - Mouse Click at (835, 536) - screenshot saved
+
+[2025-12-13 13:30:30.438242] - Mouse Click at (485, 396) - screenshot saved
+[CTRL_L]
+[2025-12-13 13:30:31.496071] - Mouse Click at (1464, 1767) - screenshot saved
+ekleye
+[2025-12-13 13:30:42.556325] - Mouse Click at (2024, 1776) - screenshot saved
+
+[2025-12-13 13:30:42.984113] - Mouse Click at (2001, 1771) - screenshot saved
+[BACKSPACE][CAPS_LOCK][CAPS_LOCK]dvanced detection tool 
+[2025-12-13 13:30:51.300387] - Mouse Click at (2640, 21) - screenshot saved
+
+[2025-12-13 13:31:40.660233] - Mouse Click at (2317, 1855) - screenshot saved
+
+[2025-12-13 13:31:41.032433] - Mouse Click at (2259, 1880) - screenshot saved
+tutorial n[BACKSPACE]buldum
+onu eklemeye aç[BACKSPACE][BACKSPACE]çalışcam
+c
+[2025-12-13 13:32:02.433204] - Mouse Click at (485, 219) - screenshot saved
+ca
+[2025-12-13 13:32:05.200743] - Mouse Click at (519, 376) - screenshot saved
+[CAPS_LOCK]
+[2025-12-13 13:32:06.623278] - Mouse Click at (1384, 1753) - screenshot saved
+nası[BACKSPACE][BACKSPACE][BACKSPACE][BACKSPACE][CAPS_LOCK]a[BACKSPACE]nasıl oldu annen aşk
+
+[2025-12-13 13:32:15.339269] - Mouse Click at (702, 676) - screenshot saved
+
+[2025-12-13 13:32:17.187757] - Mouse Click at (1026, 1762) - screenshot saved
+
+[2025-12-13 13:32:18.391313] - Mouse Click at (994, 1453) - screenshot saved
+
+[2025-12-13 13:32:25.511342] - Mouse Click at (1313, 1370) - screenshot saved
+
+[2025-12-13 13:32:28.869086] - Mouse Click at (1644, 964) - screenshot saved
+
+[2025-12-13 13:32:30.465503] - Mouse Click at (1711, 1275) - screenshot saved
+
+[2025-12-13 13:32:31.495056] - Mouse Click at (1000, 1768) - screenshot saved
+
+[2025-12-13 13:32:32.727397] - Mouse Click at (1048, 1450) - screenshot saved
+
+[2025-12-13 13:32:35.797486] - Mouse Click at (1447, 1401) - screenshot saved
+
+[2025-12-13 13:32:39.152529] - Mouse Click at (2042, 1421) - screenshot saved
+
+[2025-12-13 13:32:41.630334] - Mouse Click at (569, 552) - screenshot saved
+bi şey yapmadım dün e[BACKSPACE]çıkmadım çok yorgundum
+film izleyip uydum ya
+
+[2025-12-13 13:33:14.115399] - Mouse Click at (1703, 1427) - screenshot saved
+
+[2025-12-13 13:33:15.349171] - Mouse Click at (1898, 695) - screenshot saved
+la bi daha içmesin öyle şeyler 
+
+[2025-12-13 13:33:21.847468] - Mouse Click at (628, 560) - screenshot saved
+
+[2025-12-13 13:33:27.260031] - Mouse Click at (2641, 35) - screenshot saved
+
+[2025-12-13 13:33:35.002413] - Mouse Click at (305, 887) - screenshot saved
+[CTRL_L]
+[2025-12-13 13:33:37.812258] - Mouse Click at (2096, 1875) - screenshot saved
+
+[2025-12-13 13:33:39.530483] - Mouse Click at (2021, 1542) - screenshot saved
+
+[2025-12-13 13:33:40.449395] - Mouse Click at (2237, 1532) - screenshot saved
