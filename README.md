@@ -14,42 +14,26 @@ This project is for **educational purposes only**. It demonstrates how keylogger
 ## 🎯 Project Features
 
 ### Keylogger (`keylogger.py`)
-- ✅ Logs keystrokes to a local text file
-- ✅ Takes screenshots on every mouse click
-- ✅ Captures both regular characters and special keys
-- ✅ Organized screenshot storage with timestamps
-- ✅ Clean, readable log format
+✅ Logs keystrokes to a local text file
+✅ Takes screenshots on every mouse click
+✅ Captures both regular characters and special keys
+✅ Organized screenshot storage with timestamps
+✅ Clean, readable log format
 
 ### Detection Script (`detect_keylogger.py`)
-- ✅ Scans running processes for suspicious activity
-- ✅ Identifies Python-based keyloggers
-- ✅ Detects pynput and keyboard libraries in use
-- ✅ Shows matched keywords and process details
-- ✅ Shows performance metrics
+✅ Scans running processes for suspicious activity
+✅ Identifies Python-based keyloggers
+✅ Detects pynput and keyboard libraries in use
+✅ Shows matched keywords and process details
+
+### performance metrics (`performance_benchmark.py`)
+✅ Makes CPU, RAM, memory and time measurements
+✅ Comparison between before/after
 
 ## 📋 Requirements
 
 - Python 3.14
 - Windows OS (tested on Windows VM Home)
-
-### Python Libraries
-
-```bash
-pip install pynput pillow psutil
-```
-
-## 🚀 Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/keylogger-project.git
-cd keylogger-project
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
 
 ## 💻 Usage
 
@@ -125,30 +109,6 @@ Total suspicious processes found: 1
 - Ethical considerations in cybersecurity
 - Importance of running suspicious code in isolated environments
 
-## 🤝 Contributing
-
-Contributions are welcome! Please:
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/improvement`)
-3. Commit your changes (`git commit -m "Add improvement"`)
-4. Push to the branch (`git push origin feature/improvement`)
-5. Open a Pull Request
-
-## 📜 License
-
-This project is licensed for educational use only. See the disclaimer above.
-
-## 👥 Authors
-
-- [Your Name] - Initial work
-- [Friend's Name] - Contributor
-
-## 🔗 Resources
-
-- [pynput Documentation](https://pynput.readthedocs.io/)
-- [Pillow Documentation](https://pillow.readthedocs.io/)
-- [psutil Documentation](https://psutil.readthedocs.io/)
-
 ## ⚖️ Legal Notice
 
 **This software is provided for educational purposes only.** Unauthorized access to computer systems is illegal. Always obtain proper authorization before testing security tools. The authors are not responsible for misuse of this software.
@@ -156,3 +116,4 @@ This project is licensed for educational use only. See the disclaimer above.
 ---
 
 **Remember: Always practice ethical hacking and respect privacy laws!** 🔒
+
